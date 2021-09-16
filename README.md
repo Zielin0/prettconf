@@ -31,6 +31,8 @@ $ cd your_folder
 $ npx prettconf
 ```
 
+![img](./imgs/prettconf.png)
+
 ## LICENSE
 
 [MIT](./LICENSE)
