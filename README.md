@@ -7,7 +7,7 @@
 ![shield](https://img.shields.io/npm/v/prettconf)
 ![shield](https://img.shields.io/npm/dw/prettconf)
 
-Prettconff - simple CLI to create your prettier config. Written in TypeScript.
+Prettconf - simple CLI to create your prettier config. Written in TypeScript.
 
 ## Instalation
 
