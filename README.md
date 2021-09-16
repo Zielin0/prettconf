@@ -1,5 +1,12 @@
 # Prettconf
 
+![shield](https://img.shields.io/github/forks/Zielin0/prettconf)
+![shield](https://img.shields.io/github/stars/Zielin0/prettconf)
+![shield](https://img.shields.io/github/issues/Zielin0/prettconf)
+![shield](https://img.shields.io/github/license/Zielin0/prettconf)
+![shield](https://img.shields.io/npm/v/prettconf)
+![shield](https://img.shields.io/npm/dw/prettconf)
+
 Prettconff - simple CLI to create your prettier config. Written in TypeScript.
 
 ## Instalation
@@ -21,7 +28,7 @@ $ npm install -g prettconf
 ```bash
 $ cd your_folder
 
-$ prettconf
+$ npx prettconf
 ```
 
 ## LICENSE
