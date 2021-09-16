@@ -1,6 +1,6 @@
 {
   "name": "prettconf",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simple CLI to make prettier config.",
   "main": "index.js",
   "scripts": {
